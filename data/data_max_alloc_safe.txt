@@ -1,0 +1,10 @@
+# Resource Types
+A B C
+# Number of resource instances for each resource type
+7 2 6
+# Number of resources allocated of each resource type for all processes followed by maximum resources needed for each resource type
+0 1 0		0 1 0
+2 0 0		4 0 2
+3 0 3		3 0 3
+2 1 1		3 1 1
+0 0 2		0 0 4
