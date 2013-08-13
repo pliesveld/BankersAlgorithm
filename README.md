@@ -9,7 +9,7 @@ Example
 -------
 
         BankerSystem sys{{'A','B','C','D','E','F','G'},
-        					  {  1,  2,  3,  4,  5,  6,  7}};
+                        {  1,  2,  3,  4,  5,  6,  7}};
 
         sys.UpdateResourcesAvailable();
 
